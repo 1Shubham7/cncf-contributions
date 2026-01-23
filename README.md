@@ -19,7 +19,11 @@
 <br>
 <br>
 
-### Total PRs merged - 60
+### Total PRs merged - 61
+
+**kgateway-dev/kgateway**
+
+1. [Faster E2E tests for `Extauth` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13323)
 
 ### CNCF KubeEdge
 
