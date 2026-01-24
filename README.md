@@ -10,6 +10,8 @@
     <br />
     <a href="https://github.com/kgateway-dev/kgateway">CNCF kgateway</a>
     ·
+    <a href="https://github.com/argoproj/argo-cd/">ArgoCD</a>
+    .
     <a href="https://github.com/kubeedge/">CNCF KubeEdge</a>
     ·
     <a href="https://github.com/kyverno/">CNCF Kyverno</a>
@@ -22,6 +24,8 @@
 <br>
 
 ### Total PRs merged - 61
+
+### CNCF KGateway
 
 **kgateway-dev/kgateway**
 
