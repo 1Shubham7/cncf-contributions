@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 62
+### Total PRs merged - 63
 
 ### CNCF KGateway
 
@@ -85,7 +85,10 @@
 44. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
 45. [Case study for Cloud Native EdgeComputing Satellite (ENG)](https://github.com/kubeedge/website/pull/655)
 46. [Case study for ZCITC Streamlining Urban Parking with KubeEdge](https://github.com/kubeedge/website/pull/659)
-    
+
+#### CNCF Argo CD
+
+1. [docs: Update Linux host IP detection in Toolchain guide -  to avoid hardcoded `eth0`](https://github.com/argoproj/argo-cd/pull/25800)
 
 ### CNCF Kyverno
 
