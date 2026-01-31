@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 63
+### Total PRs merged - 64
 
 ### CNCF KGateway
 
@@ -89,6 +89,7 @@
 #### CNCF Argo CD
 
 1. [docs: Update Linux host IP detection in Toolchain guide -  to avoid hardcoded `eth0`](https://github.com/argoproj/argo-cd/pull/25800)
+2. [fix: update Jsonnet field tag to avoid `jsonnet: {}` in manifests](https://github.com/argoproj/argo-cd/pull/25625)
 
 ### CNCF Kyverno
 
