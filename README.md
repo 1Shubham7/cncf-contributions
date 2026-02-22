@@ -29,9 +29,10 @@
 
 **kgateway-dev/kgateway**
 
-1. [Faster E2E tests for `Extauth` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13323)
-2. [Introducing `TestInstallation.AssertionsT` method that provides a better scoped assertions provider](https://github.com/kgateway-dev/kgateway/pull/13324)
-3. [Faster E2E tests for `ExtProc` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13446)
+1. [Introduce shared base gateway and migrate tests to go http assertions for faster tests](https://github.com/kgateway-dev/kgateway/pull/13515)
+2. [Faster E2E tests for `Extauth` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13323)
+3. [Introducing `TestInstallation.AssertionsT` method that provides a better scoped assertions provider](https://github.com/kgateway-dev/kgateway/pull/13324)
+4. [Faster E2E tests for `ExtProc` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13446)
 
 **kgateway-dev/kgateway.dev**
 
