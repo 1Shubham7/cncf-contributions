@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 66
+### Total PRs merged - 68
 
 ### CNCF KGateway
 
@@ -33,10 +33,11 @@
 2. [Faster E2E tests for `Extauth` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13323)
 3. [Introducing `TestInstallation.AssertionsT` method that provides a better scoped assertions provider](https://github.com/kgateway-dev/kgateway/pull/13324)
 4. [Faster E2E tests for `ExtProc` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13446)
+5. [Move `global/local rate limits`, `policyselector`, `cors`, `compression`, `backendconfigpolicy`, `csrf`, `autohostrewrite` tests from curl pods assertions to native go](https://github.com/kgateway-dev/kgateway/pull/13570)
 
 **kgateway-dev/kgateway.dev**
 
-4. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
+6. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
 
 ### CNCF KubeEdge
 
