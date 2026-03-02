@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 68
+### Total PRs merged - 70
 
 ### CNCF KGateway
 
@@ -38,7 +38,11 @@
 
 **kgateway-dev/kgateway.dev**
 
-6. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
+7. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
+
+**kgateway-dev/community**
+
+8. [add 1shubham7 to org member](https://github.com/kgateway-dev/community/pull/151)
 
 ### CNCF KubeEdge
 
