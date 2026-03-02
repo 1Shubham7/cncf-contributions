@@ -34,6 +34,7 @@
 3. [Introducing `TestInstallation.AssertionsT` method that provides a better scoped assertions provider](https://github.com/kgateway-dev/kgateway/pull/13324)
 4. [Faster E2E tests for `ExtProc` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13446)
 5. [Move `global/local rate limits`, `policyselector`, `cors`, `compression`, `backendconfigpolicy`, `csrf`, `autohostrewrite` tests from curl pods assertions to native go](https://github.com/kgateway-dev/kgateway/pull/13570)
+6. [move from curl pod with native Go code for`](https://github.com/kgateway-dev/kgateway/pull/13589)
 
 **kgateway-dev/kgateway.dev**
 
