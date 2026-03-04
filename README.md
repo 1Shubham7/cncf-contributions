@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 70
+### Total PRs merged - 71
 
 ### CNCF KGateway
 
@@ -137,3 +137,9 @@
 **kubernetes/website**
 
 1. [Fix grammar in "Autoscaling Workloads" page](https://github.com/kubernetes/website/pull/49935)
+
+### CNCF
+
+**cncf/mentoring**
+
+1. [Fix formatting of kpt link](https://github.com/cncf/mentoring/pull/1750)
