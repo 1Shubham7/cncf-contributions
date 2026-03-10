@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Total PRs merged - 71
+### Total PRs merged - 72
 
 ### CNCF KGateway
 
@@ -35,6 +35,7 @@
 4. [Faster E2E tests for `ExtProc` pkg - use native go instead of curl pod to create http reqs](https://github.com/kgateway-dev/kgateway/pull/13446)
 5. [Move `global/local rate limits`, `policyselector`, `cors`, `compression`, `backendconfigpolicy`, `csrf`, `autohostrewrite` tests from curl pods assertions to native go](https://github.com/kgateway-dev/kgateway/pull/13570)
 6. [move from curl pod with native Go code for`](https://github.com/kgateway-dev/kgateway/pull/13589)
+7. [(chore): add migrate ZeroDowntime tests to SetupBaseGateway and go assertions](https://github.com/kgateway-dev/kgateway/pull/13597)
 
 **kgateway-dev/kgateway.dev**
 
