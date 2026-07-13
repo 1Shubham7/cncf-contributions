@@ -38,11 +38,11 @@
 
 **kgateway-dev/kgateway.dev**
 
-9. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
+10. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
 
 **kgateway-dev/community**
 
-10. [add 1shubham7 to org member](https://github.com/kgateway-dev/community/pull/151)
+11. [add 1shubham7 to org member](https://github.com/kgateway-dev/community/pull/151)
 
 ### CNCF KubeEdge
 
