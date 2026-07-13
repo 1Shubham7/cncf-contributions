@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Total PRs merged - 73
+### Total PRs merged - 74
 
 ### CNCF KGateway
 
@@ -34,6 +34,7 @@
 6. [move from curl pod with native Go code for - `AttachedRoutes`, `DirectResponse`, `PathMatching`, `TimeoutRetry`, `RBAC`, `APIKeyAuth`, `JWT`, `BasicAuth`](https://github.com/kgateway-dev/kgateway/pull/13589)
 7. [(chore): add migrate ZeroDowntime tests to SetupBaseGateway and go assertions](https://github.com/kgateway-dev/kgateway/pull/13597)
 8. [move from curl pod with native Go code for TLS Tests](https://github.com/kgateway-dev/kgateway/pull/13840)
+9. [fix: clear SetupBaseConfig after the test runs](https://github.com/kgateway-dev/kgateway/pull/13844)
 
 **kgateway-dev/kgateway.dev**
 
