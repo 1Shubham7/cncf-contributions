@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Total PRs merged - 74
+### Total PRs merged - 75
 
 ### CNCF KGateway
 
@@ -35,14 +35,15 @@
 7. [(chore): add migrate ZeroDowntime tests to SetupBaseGateway and go assertions](https://github.com/kgateway-dev/kgateway/pull/13597)
 8. [move from curl pod with native Go code for TLS Tests](https://github.com/kgateway-dev/kgateway/pull/13840)
 9. [fix: clear SetupBaseConfig after the test runs](https://github.com/kgateway-dev/kgateway/pull/13844)
+10. [(chore): added yamlfmt formater + lint check in ci and make REFRESH_GOLDEN files pass lint + add EOF newline](https://github.com/kgateway-dev/kgateway/pull/13924)
 
 **kgateway-dev/kgateway.dev**
 
-10. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
+11. [Fixed the issues I found in the docs](https://github.com/kgateway-dev/kgateway.dev/pull/669)
 
 **kgateway-dev/community**
 
-11. [add 1shubham7 to org member](https://github.com/kgateway-dev/community/pull/151)
+12. [add 1shubham7 to org member](https://github.com/kgateway-dev/community/pull/151)
 
 ### CNCF KubeEdge
 
